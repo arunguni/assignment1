@@ -2,10 +2,15 @@
 ## Acessing Saleor Stack
 
 Open Terminal: Access Saleor file from repositoty saleor-platform
+
 Run $ sudo docker compose up
+
 For Saleor Dashboard: Localhost:9003
+
 For Saleor Stackfront: Localhost:3009
+
 Stop $ sudo docker compose down
+
 
 ## ISEC6000 Secure DevOps Assignment-1 
 
