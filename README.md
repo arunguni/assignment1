@@ -1,5 +1,5 @@
 # Assignment1
-ISEC6000 Secure DevOps Assignment-1 
+## ISEC6000 Secure DevOps Assignment-1 
 
 This repository contains the completed tasks for the ISEC6000 Secure DevOps Assignment-1.
 
