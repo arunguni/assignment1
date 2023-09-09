@@ -4,6 +4,7 @@ ISEC6000 Secure DevOps Assignment-1
 This repository contains the completed tasks for the ISEC6000 Secure DevOps Assignment-1.
 
 Task 1: Set Up Initial Infrastructure
+
 1.Created a Kubernetes cluster on Google Kubernetes Engine (GKE) using the Google Cloud Console. Configured cluster settings including cluster name, location, and node pool configuration. Chose the desired Kubernetes version. Provisioned the GKE cluster.
 
 2.Configured the local environment to interact with the GKE cluster using kubectl. Accessed the GKE cluster through the Google Cloud Console. Successfully authenticated kubectl with the GKE cluster.
