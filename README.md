@@ -1,5 +1,6 @@
 # Assignment1
-##Acessing Saleor Stack
+## Acessing Saleor Stack
+
 Open Terminal: Access Saleor file from repositoty saleor-platform
 Run $ sudo docker compose up
 For Saleor Dashboard: Localhost:9003
