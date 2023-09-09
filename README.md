@@ -16,7 +16,7 @@ Task 2: Microservices Architecture and Deployment
 
 3.Created a personal GitHub account and forked the Saleor platform repository.
 
-4. Followed the instructions in the Saleor platform repository to run a Saleor stack enriched with sample data.
+4.Followed the instructions in the Saleor platform repository to run a Saleor stack enriched with sample data.
 
 5.Configured the React Storefront to operate on port 3009. Assigned port 9003 for the Saleor Dashboard. Initiated the stack and verified the successful launch of all services.
 
